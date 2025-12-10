@@ -1,8 +1,8 @@
 # 📊 Interactive Data Visualization Dashboard
 
-EASE THE JOURNEY TO UNDERSTAND YOUR DATA!!\n
-Use this INTERACTIVE DATA VISUALIZATION DASHBOARD to see trends, fluctuations, patterns and much more inyour data through your choice of graph plotted with your choice features and filters!\n
-Upload datasets, build charts, and save configurations.\n
+EASE THE JOURNEY TO UNDERSTAND YOUR DATA!!
+Use this INTERACTIVE DATA VISUALIZATION DASHBOARD to see trends, fluctuations, patterns and much more inyour data through your choice of graph plotted with your choice features and filters!
+Upload datasets, build charts, and save configurations.
 Try it out!:
 https://charts-dashboard.streamlit.app/
 
